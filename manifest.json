@@ -9,7 +9,7 @@
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
-    "Обнавлен Voxy Server 228"
+    "Обнавлен Voxy Server"
   ],
   "files": {
     "mods/VoxyServer-1.1.5.jar": {
