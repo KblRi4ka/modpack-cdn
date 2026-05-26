@@ -6,7 +6,7 @@
     "name": "Custom Modpack",
     "description": "Описание вашей сборки",
     "author": "Your Name",
-    "updateUrl": "https://testmodxxx.netlify.app/manifest.json"
+    "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
     "Первая версия сборки",
@@ -1049,12 +1049,12 @@
       "size": 81945
     },
     "mods/voxy-0.2.14-alpha.jar": {
-      "url": "https://testmodxxx.netlify.app/files/mods/voxy-0.2.14-alpha.jar",
+      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/mods/voxy-0.2.14-alpha.jar",
       "hash": "19edb841e644999b9df6d4dab7b37724359042f11eee895938d6151e54fc50cb",
       "size": 12598302
     },
     "mods/VoxyServer-1.1.5.jar": {
-      "url": "https://testmodxxx.netlify.app/files/mods/VoxyServer-1.1.5.jar",
+      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/mods/VoxyServer-1.1.5.jar",
       "hash": "3ac5fd1f497d9a25aabf35792b44abd16bd83d1351ddba6f26d966e36c6b2e4f",
       "size": 16419046
     },
@@ -1179,22 +1179,22 @@
       "size": 7139609
     },
     "config/defaultoptions/keybindings.txt": {
-      "url": "https://testmodxxx.netlify.app/files/config/defaultoptions/keybindings.txt",
+      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/config/defaultoptions/keybindings.txt",
       "hash": "8fb3cc5add18e88ca40dc4c48ef950bcc133102a8a03629b42d6acfe89b38d98",
       "size": 12963
     },
     "config/defaultoptions/options.txt": {
-      "url": "https://testmodxxx.netlify.app/files/config/defaultoptions/options.txt",
+      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/config/defaultoptions/options.txt",
       "hash": "0ef8dd8ee3a105211313b2aaf1ad66d9dcdfda7bfb165b801ae495a764a3121c",
       "size": 2361
     },
     "config/defaultoptions-common.toml": {
-      "url": "https://testmodxxx.netlify.app/files/config/defaultoptions-common.toml",
+      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/config/defaultoptions-common.toml",
       "hash": "7f84b4d37e39956dd57ed232b08453ea3c2c4578bdf1430d42b4e77a15024b75",
       "size": 379
     },
     "config/paxi/datapack_load_order.json": {
-      "url": "https://testmodxxx.netlify.app/files/config/paxi/datapack_load_order.json",
+      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/config/paxi/datapack_load_order.json",
       "hash": "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293",
       "size": 21
     },
@@ -1229,7 +1229,7 @@
       "size": 195291
     },
     "config/paxi/resourcepack_load_order.json": {
-      "url": "https://testmodxxx.netlify.app/files/config/paxi/resourcepack_load_order.json",
+      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/config/paxi/resourcepack_load_order.json",
       "hash": "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293",
       "size": 21
     },
