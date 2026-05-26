@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -9,7 +9,7 @@
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
-    "Обнавлен Voxy Server"
+    "Удалили эту хуйню dunchanting, лол"
   ],
   "files": {
     "mods/VoxyServer-1.1.5.jar": {
