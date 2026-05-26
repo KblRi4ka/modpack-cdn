@@ -13,7 +13,7 @@
   ],
   "files": {
     "mods/VoxyServer-1.1.5.jar": {
-      "url": "https://testmodxxx.netlify.app/files/mods/VoxyServer-1.1.5.jar",
+      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/mods/VoxyServer-1.1.5.jar",
       "hash": "0832527c99eb0d0a4419dba282bd766840bc60b07226eef2ff0be09401bae0e1",
       "size": 1141947
     },
