@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -9,10 +9,14 @@
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
-    "Первая версия сборки",
-    "Добавлены базовые моды"
+    "Обнавлен Voxy Server"
   ],
   "files": {
+    "mods/VoxyServer-1.1.5.jar": {
+      "url": "https://testmodxxx.netlify.app/files/mods/VoxyServer-1.1.5.jar",
+      "hash": "0832527c99eb0d0a4419dba282bd766840bc60b07226eef2ff0be09401bae0e1",
+      "size": 1141947
+    },
     "mods/2.4.3-neoforge-1.21.1-bluelib-2.4.3.jar": {
       "url": "https://cdn.modrinth.com/data/e4dMhzcL/versions/YFGbBo01/2.4.3-neoforge-1.21.1-bluelib-2.4.3.jar",
       "hash": "efcbc58b6f0f06062f4c8c937e049b21be3fab37f76285dd5078b6a927cc486b",
@@ -1052,11 +1056,6 @@
       "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/mods/voxy-0.2.14-alpha.jar",
       "hash": "19edb841e644999b9df6d4dab7b37724359042f11eee895938d6151e54fc50cb",
       "size": 12598302
-    },
-    "mods/VoxyServer-1.1.5.jar": {
-      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/mods/VoxyServer-1.1.5.jar",
-      "hash": "3ac5fd1f497d9a25aabf35792b44abd16bd83d1351ddba6f26d966e36c6b2e4f",
-      "size": 16419046
     },
     "mods/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar": {
       "url": "https://cdn.modrinth.com/data/eBzFuVTM/versions/ygogZrIE/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
