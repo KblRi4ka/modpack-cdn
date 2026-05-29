@@ -1,5 +1,5 @@
 {
-  "version": "0.0.6",
+  "version": "0.0.7",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -15,12 +15,12 @@
   ],
   "files": {
     "mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar": {
-      "url": "https://testmodxxx.netlify.app/files/mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
+      "url": "https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
       "hash": "dc161b5a6fdc57078913c5846d825a50c476f4ce6279b02837dd24fa33417260",
       "size": 86058
     },
     "mods/voicechat-neoforge-1.21.1-2.6.18.jar": {
-      "url": "https://testmodxxx.netlify.app/files/mods/voicechat-neoforge-1.21.1-2.6.18.jar",
+      "url": "https://cdn.modrinth.com/data/9eGKb6K1/versions/eFhbQnrh/voicechat-neoforge-1.21.1-2.6.18.jar",
       "hash": "fb0dc1f4bb36f471fafc86fee12b963f036ddf8d4622653509d884bbed96b1e5",
       "size": 4902837
     },
