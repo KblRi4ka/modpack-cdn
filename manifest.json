@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
+  "version": "0.0.5",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -13,6 +13,21 @@
     "Удален мод Bluedude Dragons"
   ],
   "files": {
+    "mods/irons_lib-1.21.1-1.0.2.jar": {
+      "url": "https://mediafilez.forgecdn.net/files/7907/336/irons_lib-1.21.1-1.0.2.jar",
+      "hash": "650900b0f6561a74d6e2129a9094fd0b8a9eea0a60d2a580261e0d4b25fcaf22",
+      "size": 374610
+    },
+    "mods/irons_spellbooks-1.21.1-3.15.6.jar": {
+      "url": "https://mediafilez.forgecdn.net/files/7907/341/irons_spellbooks-1.21.1-3.15.6.jar",
+      "hash": "ba1f1986ca706ae348cb6fce6e383ab7cc61c375826ccf0e4d3a88ed2f9fcd3d",
+      "size": 13559913
+    },
+    "mods/player-animationj-lib-forge-2.0.4+1.21.1.jar": {
+      "url": "https://mediafilez.forgecdn.net/files/7389/814/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "hash": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
+      "size": 203149
+    },
     "mods/BandwidthOptimizer-2.8.11.29-neoforge-1.21.1.jar": {
       "url": "https://mediafilez.forgecdn.net/files/8163/213/BandwidthOptimizer-2.8.11.29-neoforge-1.21.1.jar",
       "hash": "63fb853e35960d999530dfecb4995228f74acc5c102e423fea76297f70c97514",
@@ -167,11 +182,6 @@
       "url": "https://cdn.modrinth.com/data/hIu9KJTT/versions/CKLYp96Y/BrewinAndChewin-neoforge-4.4.2%2B1.21.1.jar",
       "hash": "2164f5c859b928d689f6cef566081f0db5b3339d401ef84eee84b2c28ffa8105",
       "size": 1566859
-    },
-    "mods/c2me-neoforge-mc1.21.1-0.3.0+alpha.0.93.jar": {
-      "url": "https://cdn.modrinth.com/data/COlSi5iR/versions/KmfiVd28/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.93.jar",
-      "hash": "2735b16e136e51c03c9a8211fbecaf9d571a28475981223c60662465664f5322",
-      "size": 4510749
     },
     "mods/caelus-neoforge-7.0.1+1.21.1.jar": {
       "url": "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-7.0.1%2B1.21.1.jar",
@@ -692,11 +702,6 @@
       "url": "https://cdn.modrinth.com/data/bgDhVmqz/versions/dwgUdGcO/nexuslib-neoforge-1.21.1-1.1.4.jar",
       "hash": "7478d4d483490326282beb351767a2e677303f876469d62312ee3b3f515e637f",
       "size": 89838
-    },
-    "mods/noisium-neoforge-2.7.0+mc1.21-1.21.1.jar": {
-      "url": "https://cdn.modrinth.com/data/hasdd01q/versions/VviuomrA/noisium-neoforge-2.7.0%2Bmc1.21-1.21.1.jar",
-      "hash": "ca097cd53fcdabecbcbf22e2515eb1956f313f094cd3a0506800ebf239e255f9",
-      "size": 60512
     },
     "mods/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar": {
       "url": "https://cdn.modrinth.com/data/MPCX6s5C/versions/ZNs9eukY/notenoughanimations-neoforge-1.12.3-mc1.21.1.jar",
