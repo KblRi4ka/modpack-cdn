@@ -1,5 +1,5 @@
 {
-  "version": "0.0.8",
+  "version": "0.0.9",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -14,21 +14,6 @@
     "Добавлены новые баги"
   ],
   "files": {
-    "mods/fancymenu_neoforge_3.9.1_MC_1.21.1.jar": {
-      "url": "https://cdn.modrinth.com/data/Wq5SjeWM/versions/E22W2MsG/fancymenu_neoforge_3.9.1_MC_1.21.1.jar",
-      "hash": "ce3605a2737dc7d1e5c5b70ea78664e9eb6804b8a6eeb49cb5805be359cc4cee",
-      "size": 25346355
-    },
-    "mods/konkrete_neoforge_1.9.9_MC_1.21.jar": {
-      "url": "https://cdn.modrinth.com/data/J81TRJWm/versions/stJDU839/konkrete_neoforge_1.9.9_MC_1.21.jar",
-      "hash": "791c5538751dd3015ef3a2ce92d98719e1a28a48ebbd817b78506771256654cd",
-      "size": 618842
-    },
-    "mods/melody_neoforge_1.0.10_MC_1.21.jar": {
-      "url": "https://cdn.modrinth.com/data/CVT4pFB2/versions/efcdRVZP/melody_neoforge_1.0.10_MC_1.21.jar",
-      "hash": "6b973a4564703c531fc0eae09db08b07a38091e0a743c687b8d2049457e84871",
-      "size": 36096
-    },
     "mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar": {
       "url": "https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
       "hash": "dc161b5a6fdc57078913c5846d825a50c476f4ce6279b02837dd24fa33417260",
