@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -9,9 +9,15 @@
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
-    "Удалили эту хуйню dunchanting, лол"
+    "Добвлен BandwidthOptimizer",
+    "Удален мод Bluedude Dragons"
   ],
   "files": {
+    "mods/BandwidthOptimizer-2.8.11.29-neoforge-1.21.1.jar": {
+      "url": "https://mediafilez.forgecdn.net/files/8163/213/BandwidthOptimizer-2.8.11.29-neoforge-1.21.1.jar",
+      "hash": "63fb853e35960d999530dfecb4995228f74acc5c102e423fea76297f70c97514",
+      "size": 8687869
+    },
     "mods/VoxyServer-1.1.5.jar": {
       "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/mods/VoxyServer-1.1.5.jar",
       "hash": "0832527c99eb0d0a4419dba282bd766840bc60b07226eef2ff0be09401bae0e1",
@@ -111,11 +117,6 @@
       "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/3XiinKbh/balm-neoforge-1.21.1-21.0.58.jar",
       "hash": "aa2463747bad4c2351869226ea7bce7839510dfd2ac387f8d1588b1ce9309c67",
       "size": 701868
-    },
-    "mods/bdd-neoforge-1.21.1-1.3.0-alpha.jar": {
-      "url": "https://cdn.modrinth.com/data/SImnmScL/versions/gKRLQn5o/bdd-neoforge-1.21.1-1.3.0-alpha.jar",
-      "hash": "456cbab81fb3762cc2a981fa60eb545c22c9587602c8e4275b7d87e6f2f41e60",
-      "size": 21280474
     },
     "mods/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar": {
       "url": "https://cdn.modrinth.com/data/Q2OqKxDG/versions/FjTYILOi/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar",
