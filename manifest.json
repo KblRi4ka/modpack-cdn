@@ -25,7 +25,7 @@
       "size": 4902837
     },
     "mods/VoxyServer-1.1.5.jar": {
-      "url": "https://testmodxxx.netlify.app/files/mods/VoxyServer-1.1.5.jar",
+      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/mods/VoxyServer-1.1.5.jar",
       "hash": "3ac5fd1f497d9a25aabf35792b44abd16bd83d1351ddba6f26d966e36c6b2e4f",
       "size": 16419046
     },
@@ -53,11 +53,6 @@
       "url": "https://mediafilez.forgecdn.net/files/8163/213/BandwidthOptimizer-2.8.11.29-neoforge-1.21.1.jar",
       "hash": "63fb853e35960d999530dfecb4995228f74acc5c102e423fea76297f70c97514",
       "size": 8687869
-    },
-    "mods/VoxyServer-1.1.5.jar": {
-      "url": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/files/mods/VoxyServer-1.1.5.jar",
-      "hash": "0832527c99eb0d0a4419dba282bd766840bc60b07226eef2ff0be09401bae0e1",
-      "size": 1141947
     },
     "mods/2.4.3-neoforge-1.21.1-bluelib-2.4.3.jar": {
       "url": "https://cdn.modrinth.com/data/e4dMhzcL/versions/YFGbBo01/2.4.3-neoforge-1.21.1-bluelib-2.4.3.jar",
