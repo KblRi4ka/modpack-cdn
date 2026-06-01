@@ -1,5 +1,5 @@
 {
-  "version": "0.1.1",
+  "version": "0.1.3",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -21,11 +21,6 @@
       "url": "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar",
       "hash": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
       "size": 13871
-    },
-    "mods/carryon-neoforge-1.21.1-2.2.4.4.jar": {
-      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/cgZi7nC7/carryon-neoforge-1.21.1-2.2.4.4.jar",
-      "hash": "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57",
-      "size": 357489
     },
     "mods/connectivity-1.21.1-7.6.jar": {
       "url": "https://mediafilez.forgecdn.net/files/7367/221/connectivity-1.21.1-7.6.jar",
@@ -57,11 +52,6 @@
       "hash": "80e4716a3da53c920ce6e8d122332edc65b91c9f7e4d94bedacac9f35fe32aa0",
       "size": 344279
     },
-    "mods/player-animation-lib-forge-2.0.4+1.21.1.jar": {
-      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
-      "hash": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
-      "size": 203149
-    },
     "mods/servercore-neoforge-1.5.17+1.21.1.jar": {
       "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/zEViyXZ9/servercore-neoforge-1.5.17%2B1.21.1.jar",
       "hash": "5d3b3ac3fc61ef304af929cec2637481eed211fc694d6074258e02abbcfe3467",
@@ -82,20 +72,10 @@
       "hash": "7257006125f31234f2d2b0fef90dd522c5fa3a253c20dcc175bb2eb2a2ae06d6",
       "size": 15163
     },
-    "mods/vapemod-1.21.1-1.1.0.jar": {
-      "url": "https://mediafilez.forgecdn.net/files/6608/330/vapemod-1.21.1-1.1.0.jar",
-      "hash": "c644b79ade58a9cb73203a3c4e00617dfc4e320666852153187091528b8af7b7",
-      "size": 423916
-    },
     "mods/xaerominimap-neoforge-1.21.1-25.3.13.jar": {
       "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CklXEjmp/xaerominimap-neoforge-1.21.1-25.3.13.jar",
       "hash": "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2",
       "size": 2138329
-    },
-    "mods/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar": {
-      "url": "https://cdn.modrinth.com/data/7mLhyqIY/versions/k8wIAiWT/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
-      "hash": "fcd0a18f5f5940b31353ee70ddb0194cf1cd9565a8bfc9557c93804e34422b89",
-      "size": 7308
     },
     "mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar": {
       "url": "https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
