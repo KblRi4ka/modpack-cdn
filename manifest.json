@@ -1,5 +1,5 @@
 {
-  "version": "0.0.9",
+  "version": "0.1.0",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -9,11 +9,94 @@
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
-    "Удалены некоторые моды",
-    "Добавлены другие",
-    "Добавлены новые баги"
+    Бета хули
   ],
   "files": {
+    "mods/bettercombat-neoforge-2.3.2+1.21.1.jar": {
+      "url": "https://cdn.modrinth.com/data/5sy6g3kz/versions/2NyTus6V/bettercombat-neoforge-2.3.2%2B1.21.1.jar",
+      "hash": "afb1f28271ee3b622947f533aa754bb22ed67edd4940a3e9fdf2cca1edb7b8a9",
+      "size": 1041845
+    },
+    "mods/BetterPingDisplay-1.21.1-1.1.jar": {
+      "url": "https://cdn.modrinth.com/data/ZvaHbwoZ/versions/AzKubcBR/BetterPingDisplay-1.21.1-1.1.jar",
+      "hash": "f8388de4831ca70f3e94d98d4655278b514f8589234fa92df0d6b2ff1dff321b",
+      "size": 13871
+    },
+    "mods/carryon-neoforge-1.21.1-2.2.4.4.jar": {
+      "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/cgZi7nC7/carryon-neoforge-1.21.1-2.2.4.4.jar",
+      "hash": "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57",
+      "size": 357489
+    },
+    "mods/connectivity-1.21.1-7.6.jar": {
+      "url": "https://mediafilez.forgecdn.net/files/7367/221/connectivity-1.21.1-7.6.jar",
+      "hash": "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a",
+      "size": 114165
+    },
+    "mods/cullleaves-neoforge-4.1.1+1.21.1.jar": {
+      "url": "https://cdn.modrinth.com/data/GNxdLCoP/versions/V7PU4g8I/cullleaves-neoforge-4.1.1%2B1.21.1.jar",
+      "hash": "6e860e8aa56dbc8bfdad0d2d3591bbc2e491bbf38fae5e19892460d54bac0df3",
+      "size": 94735
+    },
+    "mods/cupboard-1.21-3.5.jar": {
+      "url": "https://mediafilez.forgecdn.net/files/7746/488/cupboard-1.21-3.5.jar",
+      "hash": "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db",
+      "size": 26659
+    },
+    "mods/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar": {
+      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/9Q9EA4jQ/EuphoriaPatcher-1.9.3-r5.8.1-neoforge.jar",
+      "hash": "9ff48c18cb5fd3425a6c15b16ce16656d6419fdb695e662d9a3cbe5604c40563",
+      "size": 4210708
+    },
+    "mods/midnightlib-neoforge-1.9.3+1.21.1.jar": {
+      "url": "https://cdn.modrinth.com/data/codAaoxh/versions/6Gv5jvTB/midnightlib-neoforge-1.9.3%2B1.21.1.jar",
+      "hash": "76775d3a3f3a6a0304330cdd6a810944babc9bd7ebbdefa24ec3346a7c62a703",
+      "size": 61217
+    },
+    "mods/moreculling-neoforge-1.21.1-1.0.7.jar": {
+      "url": "https://cdn.modrinth.com/data/51shyZVL/versions/BvOuEhk4/moreculling-neoforge-1.21.1-1.0.7.jar",
+      "hash": "80e4716a3da53c920ce6e8d122332edc65b91c9f7e4d94bedacac9f35fe32aa0",
+      "size": 344279
+    },
+    "mods/player-animation-lib-forge-2.0.4+1.21.1.jar": {
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+      "hash": "dbe5de45f5cd60c0e5e47af14e6d564534a98456e973cf670cb881f6938eee92",
+      "size": 203149
+    },
+    "mods/servercore-neoforge-1.5.17+1.21.1.jar": {
+      "url": "https://cdn.modrinth.com/data/4WWQxlQP/versions/zEViyXZ9/servercore-neoforge-1.5.17%2B1.21.1.jar",
+      "hash": "5d3b3ac3fc61ef304af929cec2637481eed211fc694d6074258e02abbcfe3467",
+      "size": 1462216
+    },
+    "mods/spartanshieldsunofficial-1.0.0-1.21.1.jar": {
+      "url": "https://cdn.modrinth.com/data/EvjGFdKp/versions/xzXbZ0oN/spartanshieldsunofficial-1.0.0-1.21.1.jar",
+      "hash": "777596734d70a4f85b16f92b747823ca82f7bedd5b8cf7afe3a3df5494bfd2a7",
+      "size": 528424
+    },
+    "mods/spartan_weaponry_unofficial-1.1.2-1.21.1.jar": {
+      "url": "https://cdn.modrinth.com/data/w8V2GMiK/versions/b6E4UKAo/spartan_weaponry_unofficial-1.1.2-1.21.1.jar",
+      "hash": "bfc04ec6b1ae7454f760b66a19de082ef0d9e6595b7611769f2e223b2ed5cd11",
+      "size": 2837960
+    },
+    "mods/steppy-neoforge-1.21.1-1.3.1.jar": {
+      "url": "https://cdn.modrinth.com/data/i2ljaWrq/versions/h7AX7KpY/steppy-neoforge-1.21.1-1.3.1.jar",
+      "hash": "7257006125f31234f2d2b0fef90dd522c5fa3a253c20dcc175bb2eb2a2ae06d6",
+      "size": 15163
+    },
+    "mods/vapemod-1.21.1-1.1.0.jar": {
+      "url": "https://mediafilez.forgecdn.net/files/6608/330/vapemod-1.21.1-1.1.0.jar",
+      "hash": "c644b79ade58a9cb73203a3c4e00617dfc4e320666852153187091528b8af7b7",
+      "size": 423916
+    },
+    "mods/xaerominimap-neoforge-1.21.1-25.3.13.jar": {
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/CklXEjmp/xaerominimap-neoforge-1.21.1-25.3.13.jar",
+      "hash": "05fb78259566983b1e66501f46d6695bfab087e9630f3b65e82677b88244a1c2",
+      "size": 2138329
+    },
+    "mods/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar": {
+      "url": "https://cdn.modrinth.com/data/7mLhyqIY/versions/k8wIAiWT/xaeros_waystones_compatibility-NeoForge-1.21.1-2.1.0.jar",
+      "hash": "fcd0a18f5f5940b31353ee70ddb0194cf1cd9565a8bfc9557c93804e34422b89",
+      "size": 7308
+    },
     "mods/explosiveenhancement-neoforge-1.21.1-1.1.2.jar": {
       "url": "https://cdn.modrinth.com/data/r0camchr/versions/XVYkZnNg/explosiveenhancement-neoforge-1.21.1-1.1.2.jar",
       "hash": "dc161b5a6fdc57078913c5846d825a50c476f4ce6279b02837dd24fa33417260",
@@ -829,11 +912,6 @@
       "hash": "0c085e19253abf099ae2a16706cda621cfa5808848dde54d4e4f2c58d6e0f0c0",
       "size": 4932632
     },
-    "mods/raised-neoforge-1.21.1-5.1.2.jar": {
-      "url": "https://cdn.modrinth.com/data/nCQRBEiR/versions/i6O64Eyw/raised-neoforge-1.21.1-5.1.2.jar",
-      "hash": "fe2e34d20a3e6c3eb5bc628dd99e41f5acfaaefdf7fbdfa55169ca9464c598e4",
-      "size": 92243
-    },
     "mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar": {
       "url": "https://cdn.modrinth.com/data/Bh37bMuy/versions/xAiCe6w8/reeses-sodium-options-neoforge-1.8.3%2Bmc1.21.4.jar",
       "hash": "e00e960f9cae9ea411429fadaa48e2d778f8064667cf6aaee7ce88332813b0bf",
@@ -1209,20 +1287,45 @@
       "hash": "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293",
       "size": 21
     },
-    "config/paxi/resourcepacks/FA+Player-v1.0.zip": {
-      "url": "https://cdn.modrinth.com/data/TAIMVZCL/versions/io7wLL8n/FA%2BPlayer-v1.0.zip",
-      "hash": "b1f0c3cbcb77cdf2ad0c59e0f405f7da84f9c07f4ecd90cbb94a40bef70ca70b",
-      "size": 124472
-    },
-    "config/paxi/resourcepacks/FreshAnimations_v1.10.4.zip": {
-      "url": "https://cdn.modrinth.com/data/50dA9Sha/versions/xN57JJts/FreshAnimations_v1.10.4.zip",
-      "hash": "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2",
-      "size": 850941
-    },
     "config/paxi/resourcepacks/Os' Colorful Grasses (Short and Fluffy).zip": {
       "url": "https://cdn.modrinth.com/data/O2zhH8n8/versions/6y5oHV7t/Os%27%20Colorful%20Grasses%20%28Short%20and%20Fluffy%29.zip",
       "hash": "f352b92a22e893d13bad898fc2ff7998cb714090cb139df139beec6343e4e296",
       "size": 185115
+    },
+        "config/paxi/resourcepacks/bushy-leaves-1-6-5.zip": {
+      "url": "https://cdn.modrinth.com/data/XSSmFELw/versions/Nx48HzUJ/bushy-leaves-1-6-5.zip",
+      "hash": "2371bf7992bacb761f0887b841b6313283b2603c3a35ebcf30bda328e9f65e3a",
+      "size": 2460827
+    },
+    "config/paxi/resourcepacks/Cat Girls v1.0.zip": {
+      "url": "https://mediafilez.forgecdn.net/files/5840/397/Cat%20Girls%20v1.0.zip",
+      "hash": "ba702115d786d5271edebd536744be873c9e7ee06849e74aae4313abf4da9a94",
+      "size": 151195
+    },
+    "config/paxi/resourcepacks/Creeper Girl v1.3.1.zip": {
+      "url": "https://mediafilez.forgecdn.net/files/7461/678/Creeper%20Girl%20v1.3.1.zip",
+      "hash": "ee77c0abe9b78e3eb1c49f425fda5926419958a17d2df288a4314cfc8a442f2d",
+      "size": 169499
+    },
+    "config/paxi/resourcepacks/Melodys Cute Villagers v1.11.0_pre-26.1.zip": {
+      "url": "https://mediafilez.forgecdn.net/files/7978/372/Melodys%20Cute%20Villagers%20v1.11.0_pre-26.1.zip",
+      "hash": "8fe0504d8a224c5855f751efef27eba4cb149370b1bbd102a0e5794f7349f3cd",
+      "size": 7532338
+    },
+    "config/paxi/resourcepacks/Warden Girl v2.0.zip": {
+      "url": "https://mediafilez.forgecdn.net/files/7618/112/Warden%20Girl%20v2.0.zip",
+      "hash": "747d26547b23d1eb2820fc7a7c74bb9ad2c3a90eb8b0cf6ddb7b4072bfbf3fe4",
+      "size": 110111
+    },
+    "config/paxi/resourcepacks/Witch Girl.zip": {
+      "url": "https://mediafilez.forgecdn.net/files/8162/54/Witch%20Girl.zip",
+      "hash": "d52580c3d6d201e643c3d792ced8cb3b5867552ad0f7f5690853631c73a16466",
+      "size": 632865
+    },
+    "config/paxi/resourcepack_load_order.json": {
+      "url": "https://testmodxxx.netlify.app/files/config/paxi/resourcepack_load_order.json",
+      "hash": "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293",
+      "size": 21
     },
     "config/paxi/resourcepacks/Os' Crops.zip": {
       "url": "https://cdn.modrinth.com/data/GQ4u7e6b/versions/ttcCYX3F/Os%27%20Crops.zip",
