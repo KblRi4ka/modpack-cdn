@@ -1,5 +1,5 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -12,6 +12,21 @@
     "Бета хули 3"
   ],
   "files": {
+    "mods/arsdelight-2.2.1.jar": {
+      "url": "https://cdn.modrinth.com/data/BwbT0OZE/versions/y49FaxA3/arsdelight-2.2.1.jar",
+      "hash": "020cb4260876b81581e9e6442ec3a1e0fa38e29b6d168373f0bd77a0221313b1",
+      "size": 1044054
+    },
+    "mods/refinedstorage-emi-integration-neoforge-1.0.0.jar": {
+      "url": "https://cdn.modrinth.com/data/TCSDwmbf/versions/zpz6Pcxn/refinedstorage-emi-integration-neoforge-1.0.0.jar",
+      "hash": "703f3814f93e63a19e4a0437e2c831a867c62666a45e090d2ec0237b6a57b44e",
+      "size": 43370
+    },
+    "mods/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar": {
+      "url": "https://cdn.modrinth.com/data/gnwGOmBf/versions/toDdIhGu/refinedstorage-quartz-arsenal-neoforge-1.0.8.jar",
+      "hash": "c6f00a8dc5707726a6252aa57690d2b8d90fb350dd7f92817276efc16e8af186",
+      "size": 67115
+    },
     "mods/carryon-neoforge-1.21.1-2.2.4.4.jar": {
       "url": "https://cdn.modrinth.com/data/joEfVgkn/versions/cgZi7nC7/carryon-neoforge-1.21.1-2.2.4.4.jar",
       "hash": "ad69537be8be8b433227792e43f8df7b4d3cef7e359255d471a44e776ad8dd57",
