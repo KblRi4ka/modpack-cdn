@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -624,7 +624,7 @@
       "size": 78624
     },
     "mods/lodestone-1.21.1-1.8.2.jar": {
-      "url": "https://cdn.modrinth.com/data/67kVxsaO/versions/poGMd0AE/lmft-1.1.1%2B1.21.9-neoforge.jar",
+      "url": "https://cdn.modrinth.com/data/bN3xUWdo/versions/CohX6yP1/lodestone-1.21.1-1.8.2.jar",
       "hash": "cc961af6a77391628378c1c838e521415fa895062b13def493d27234ca527f3e",
       "size": 818829
     },
