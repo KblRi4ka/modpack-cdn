@@ -1,5 +1,5 @@
 {
-  "version": "0.0.2",
+  "version": "0.0.3",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -10,9 +10,25 @@
   },
   "changelog": [
     "Первая версия сборки",
-    "Добавлены базовые моды"
+    "Добавлены базовые моды",
+    "sex"
   ],
   "files": {
+    "mods/loot_journal-neoforge-1.21.1-6.2.1.jar": {
+      "url": "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/4Jtboo51/loot_journal-neoforge-1.21.1-6.2.1.jar",
+      "hash": "9f4651a900f0b98e2a82780df2565ee29298c9de64d5874f380dc1f4d1841ac5",
+      "size": 304543
+    },
+    "mods/trashslot-neoforge-1.21.1-21.1.11.jar": {
+      "url": "https://cdn.modrinth.com/data/vRYk0bv7/versions/HY8Ybozd/trashslot-neoforge-1.21.1-21.1.11.jar",
+      "hash": "61fdb5de0fc3d36db0e5dd82c2e03341e449bbc47ce13eeab834b05596b7bb5b",
+      "size": 77535
+    },
+    "mods/xaerominimap-neoforge-1.21.1-26.4.2.jar": {
+      "url": "https://cdn.modrinth.com/data/1bokaNcj/versions/JXvcT1hp/xaerominimap-neoforge-1.21.1-26.4.2.jar",
+      "hash": "b722bcf794288f0ed51165cd1f057fc4505e20abbc723b2e17e900426e443603",
+      "size": 2185409
+    },
     "mods/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar": {
       "url": "https://cdn.modrinth.com/data/9NM0dXub/versions/OWylG33I/AdvancementPlaques-1.21.1-neoforge-1.6.8.jar",
       "hash": "a24674330b8de59a02e0ebe4dd81fcff15d90e8c1cdcc32980d73c1cab050933",
