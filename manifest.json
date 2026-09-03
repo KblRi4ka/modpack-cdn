@@ -1,5 +1,5 @@
 {
-  "version": "0.0.5",
+  "version": "0.0.6",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -11,7 +11,7 @@
   "changelog": [
     "Первая версия сборки",
     "Добавлены базовые моды",
-    "sex 2.0"
+    "Удалил самый нужный мод",
   ],
   "files": {
     "mods/loot_journal-neoforge-1.21.1-6.2.1.jar": {
@@ -1013,11 +1013,6 @@
       "url": "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
       "hash": "0c49b5ef447a7f09100e9a210888a7347fbda0aa75322063991f6063b25fe3f9",
       "size": 120365
-    },
-    "mods/THEUNDEADREVAMPED_1.8f_1.21.1 neoforge.jar": {
-      "url": "https://mediafilez.forgecdn.net/files/6778/715/THEUNDEADREVAMPED_1.8f_1.21.1%20neoforge.jar",
-      "hash": "b8ee3ddff5b0c14259c21200e36c8bf321e3ecdc3ab181bf8a2d90e2bf140206",
-      "size": 7473761
     },
     "mods/tinydragons-1.0-neoforge-1.21.1.jar": {
       "url": "https://mediafilez.forgecdn.net/files/8530/830/tinydragons-1.0-neoforge-1.21.1.jar",
