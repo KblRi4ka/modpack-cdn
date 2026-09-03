@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
+  "version": "0.0.4",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -11,7 +11,7 @@
   "changelog": [
     "Первая версия сборки",
     "Добавлены базовые моды",
-    "sex"
+    "sex 2.0"
   ],
   "files": {
     "mods/loot_journal-neoforge-1.21.1-6.2.1.jar": {
@@ -318,11 +318,6 @@
       "url": "https://cdn.modrinth.com/data/vvuO3ImH/versions/yohfFbgD/curios-neoforge-9.5.1%2B1.21.1.jar",
       "hash": "a45df2125c26219974aba7507ffc9afe7b83acc941a386af3faacb1cc0056fde",
       "size": 410690
-    },
-    "mods/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar": {
-      "url": "https://mediafilez.forgecdn.net/files/7411/561/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
-      "hash": "6c28d87b215fc1191488194188ec8a39dd908ae7d2d887b7c9d7d463be0a162c",
-      "size": 10789250
     },
     "mods/CutThrough-v21.1.0-1.21.1-NeoForge.jar": {
       "url": "https://cdn.modrinth.com/data/Dk6su9JN/versions/5P5tLHSh/CutThrough-v21.1.0-1.21.1-NeoForge.jar",
