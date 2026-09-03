@@ -1,5 +1,5 @@
 {
-  "version": "0.0.7",
+  "version": "0.0.8",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -9,7 +9,8 @@
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
-    "Sex 3.0"
+    "Sex 4.0",
+    "Новые баги"
   ],
   "files": {
     "mods/loot_journal-neoforge-1.21.1-6.2.1.jar": {
@@ -841,11 +842,6 @@
       "url": "https://cdn.modrinth.com/data/8YcE8y4T/versions/XrUKaWrw/Ribbits-1.21.1-NeoForge-4.1.6.jar",
       "hash": "794223f5a91b8b80a962754b5180ec3e2472db6941e9b6c1cdd49324df628389",
       "size": 2215572
-    },
-    "mods/roomfortwo-neoforge-1.21.1-0.2.0.jar": {
-      "url": "https://cdn.modrinth.com/data/YZlvzIFq/versions/T7zzN9HQ/roomfortwo-neoforge-1.21.1-0.2.0.jar",
-      "hash": "816100ec6d8c862da975289583e833a7f0d601a8c801869a99c232c0e3e1891f",
-      "size": 27621
     },
     "mods/royal-variations-[NeoForge]_1.21.1_2.0.4.jar": {
       "url": "https://cdn.modrinth.com/data/n2G0Tyys/versions/uIrA446U/royal-variations-%5BNeoForge%5D_1.21.1_2.0.4.jar",
