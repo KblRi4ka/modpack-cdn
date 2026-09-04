@@ -1,5 +1,5 @@
 {
-  "version": "0.0.8",
+  "version": "0.0.9",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -9,7 +9,7 @@
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
-    "Sex 4.0",
+    "Sex 5.0",
     "Новые баги"
   ],
   "files": {
@@ -867,11 +867,6 @@
       "url": "https://mediafilez.forgecdn.net/files/6826/262/seadwellers-1.0.0-neoforge-1.21.1.jar",
       "hash": "b4423ffe51053ad2889678c4e3bb8525c0ceaeb8d9417f4739312492cb59c9d7",
       "size": 743652
-    },
-    "mods/shutter-2.3.0-neoforge-1.21.1 23.51.25.jar": {
-      "url": "https://cdn.modrinth.com/data/NjHNA0vG/versions/ZIK2Nmq2/shutter-2.3.0-neoforge-1.21.1%2023.51.25.jar",
-      "hash": "abcb93bd97b908c88e133d8ac89f797247fac8c3b8d44ebe235c37c3713fad1d",
-      "size": 1794603
     },
     "mods/simple_snowy_fix-1.21.1-1.21.11-2.2.1-neoforge.jar": {
       "url": "https://cdn.modrinth.com/data/3WP3HZRG/versions/UlwusT7e/simple_snowy_fix-1.21.1-1.21.11-2.2.1-neoforge.jar",
