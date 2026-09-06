@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -11,7 +11,8 @@
   "changelog": [
     "Обновлен Voxy",
     "Добавлен Dark Loading Screen (для вампиров)",
-    "Добавлен StepUp"
+    "Добавлен StepUp",
+    "Удален мод говна"
   ],
   "files": {
     "mods/dark_loading_screen-neoforge-1.21.1-1.0.1.jar": {
