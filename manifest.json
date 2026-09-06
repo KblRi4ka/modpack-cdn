@@ -1,5 +1,5 @@
 {
-  "version": "0.1.0",
+  "version": "0.1.1",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -10,7 +10,8 @@
   },
   "changelog": [
     "Sex 6.0",
-    "Новые баги"
+    "Новые баги",
+    "RUSSIA 2.0"
   ],
   "files": {
     "mods/loot_journal-neoforge-1.21.1-6.2.1.jar": {
