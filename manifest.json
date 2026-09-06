@@ -1,5 +1,5 @@
 {
-  "version": "0.0.9",
+  "version": "0.1.0",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -9,8 +9,8 @@
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
-    "Sex 5.0",
-    "Новые баги"
+    "Sex 6.0",
+    "Новые баги",
   ],
   "files": {
     "mods/loot_journal-neoforge-1.21.1-6.2.1.jar": {
@@ -292,11 +292,6 @@
       "url": "https://cdn.modrinth.com/data/lCwu0vBo/versions/IB3jhYul/createbionics-2.1.1.jar",
       "hash": "fb7ed5043ebb84678d07f1eaae39d098275cde4c29ccde49c349cbf5dfd561ab",
       "size": 5020027
-    },
-    "mods/createdeco-2.1.3.jar": {
-      "url": "https://cdn.modrinth.com/data/sMvUb4Rb/versions/qrcMVoBD/createdeco-2.1.3.jar",
-      "hash": "edacf1ad0bd6b9f1667d711650dc0cde604356d91caca7ca1ec428c2f9400c6e",
-      "size": 3328498
     },
     "mods/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar": {
       "url": "https://mediafilez.forgecdn.net/files/8699/787/CreativeCore_NEOFORGE_v2.13.44_mc1.21.1.jar",
