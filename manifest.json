@@ -8,11 +8,7 @@
     "author": "Kiri4ka",
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
-  "changelog": [
-    "Sex 6.0",
-    "Новые баги",
-    "RUSSIA 2.0"
-  ],
+  "changelog": [],
   "files": {
     "mods/loot_journal-neoforge-1.21.1-6.2.1.jar": {
       "url": "https://cdn.modrinth.com/data/OJ6ZYz5L/versions/4Jtboo51/loot_journal-neoforge-1.21.1-6.2.1.jar",
