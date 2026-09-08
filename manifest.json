@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -9,12 +9,15 @@
     "updateUrl": "https://raw.githubusercontent.com/KblRi4ka/modpack-cdn/main/manifest.json"
   },
   "changelog": [
-    "Обновлен Voxy",
-    "Добавлен Dark Loading Screen (для вампиров)",
-    "Добавлен StepUp",
-    "Удален мод говна"
+    "Удален еще один мод говнв",
+    "Добавлен setHome"
   ],
   "files": {
+    "mods/nextpa_neoforge1.21.1_vers1.0.5.jar": {
+      "url": "https://cdn.modrinth.com/data/iWMUMO3J/versions/ePTzRNQk/nextpa_neoforge1.21.1_vers1.0.5.jar",
+      "hash": "fee8b8109df612d7d4fa4c229bd02ac24401e90f52f0c9bab88411c82c97359e",
+      "size": 19647
+    },
     "mods/dark_loading_screen-neoforge-1.21.1-1.0.1.jar": {
       "url": "https://cdn.modrinth.com/data/4JJH4IlH/versions/tLoaZro8/dark_loading_screen-neoforge-1.21.1-1.0.1.jar",
       "hash": "433928ab640f697bcc47963da76dbc1504e0f4118de276a9453427f48d17e2d9",
@@ -949,11 +952,6 @@
       "url": "https://cdn.modrinth.com/data/jEnrr5I7/versions/gz6BfcyM/SpiderOverhaul-0.0.6-NeoForge-v1.21.jar",
       "hash": "2ae1220c34d4bd23fd0a45a9390cbf508501b179e9c8f485ddaddd51f2cb514e",
       "size": 521177
-    },
-    "mods/spookis-unique-mobs-0.9.1.1+1.21.1+neoforge.jar": {
-      "url": "https://mediafilez.forgecdn.net/files/8649/135/spookis-unique-mobs-0.9.1.1%2B1.21.1%2Bneoforge.jar",
-      "hash": "68695d33b421f62f6289e5195b47cb4be8064f019c1d82f1bbea3f6a73e57ef9",
-      "size": 2215808
     },
     "mods/statuseffectbars-1.21.1-NeoForge-1.0.2.jar": {
       "url": "https://cdn.modrinth.com/data/TxIuhIFo/versions/PPVE16f7/statuseffectbars-1.21.1-NeoForge-1.0.2.jar",
