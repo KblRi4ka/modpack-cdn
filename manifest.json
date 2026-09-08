@@ -1,5 +1,5 @@
 {
-  "version": "0.2.0",
+  "version": "0.2.1",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -21,16 +21,6 @@
       "url": "https://cdn.modrinth.com/data/IgftU6Mn/versions/SwSSfJQQ/coolrain-1.21.1-NeoForge-1.0.2.jar",
       "hash": "8c2c6070b41509b68a5b32fe0881a9d21393bd737d58aa6b45c7d96e2ae66fec",
       "size": 4151295
-    },
-    "mods/EuphoriaPatcher-1.10.0-r5.9-neoforge.jar": {
-      "url": "https://cdn.modrinth.com/data/4H6sumDB/versions/iOPYchp8/EuphoriaPatcher-1.10.0-r5.9-neoforge.jar",
-      "hash": "88db61601e6b860e492421784a33ab6f78c04015195643bff02e9e20ce128e32",
-      "size": 4456000
-    },
-    "mods/particlerain-4.0.0-beta.11+1.21.1-neoforge.jar": {
-      "url": "https://cdn.modrinth.com/data/nrikgvxm/versions/k32OBTlL/particlerain-4.0.0-beta.11%2B1.21.1-neoforge.jar",
-      "hash": "2e009947634616dfd251532eda14ef1729bcde1ccb482de83d67dffa232d1be0",
-      "size": 618131
     },
     "mods/sable-cool-rain-1.0.0+1.21.1+neoforge.jar": {
       "url": "https://cdn.modrinth.com/data/nUwwB5kx/versions/T9UNQ155/sable-cool-rain-1.0.0%2B1.21.1%2Bneoforge.jar",
