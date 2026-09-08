@@ -1,5 +1,5 @@
 {
-  "version": "0.1.7",
+  "version": "0.2.0",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -1303,7 +1303,7 @@
       "hash": "f3efa5bce8e74295b8dac8ae66a5045dc706aedcd7e881cca75790d0c9ce3448",
       "size": 644258
     },
-    "shaders/ComplementaryReimagined_r5.9.zip": {
+    "shaderpacks/ComplementaryReimagined_r5.9.zip": {
       "url": "https://cdn.modrinth.com/data/HVnmMxH1/versions/111gsk0f/ComplementaryReimagined_r5.9.zip",
       "hash": "46ed277127f04bac69af03effa897815bd20af959023784fa12a003d31425dfe",
       "size": 552449
