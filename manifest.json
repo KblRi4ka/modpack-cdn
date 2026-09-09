@@ -1,5 +1,5 @@
 {
-  "version": "0.2.1",
+  "version": "0.2.2",
   "minecraft": "1.21.1",
   "forge": "21.1.228",
   "metadata": {
@@ -12,6 +12,16 @@
     "Чет добавил хз"
   ],
   "files": {
+    "mods/clearlag-1.6-neoforge-1.21.1.jar": {
+      "url": "https://cdn.modrinth.com/data/NYRPq1I9/versions/nHE7n8rM/clearlag-1.6-neoforge-1.21.1.jar",
+      "hash": "27fddcb4ec82cd3a1d138bbd394b2785fb47c74c398ae7e9983828e7c9cd0161",
+      "size": 36697
+    },
+    "mods/tctcore-2.3-neoforge-1.21.1.jar": {
+      "url": "https://cdn.modrinth.com/data/MlsBPB9a/versions/NluYcYa2/tctcore-2.3-neoforge-1.21.1.jar",
+      "hash": "deafacd323dee041d08ae6039d579e52ac79698eeb53c38b1ac53c0dd2a35d96",
+      "size": 8118709
+    },
     "mods/aeronauticshotairfix-1.1.1.jar": {
       "url": "https://cdn.modrinth.com/data/Qhi65c7K/versions/8ka8XR8j/aeronauticshotairfix-1.1.1.jar",
       "hash": "f1bf36c1be7fd6393cc2001a9f8deb7751d7b51f1eabe2f05bdf91a32d36285c",
